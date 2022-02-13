@@ -1,0 +1,1 @@
+   con=DriverManager.getConnection("jdbc:mysql://localhost/hotelmanagement", "root", "");
