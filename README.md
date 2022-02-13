@@ -1,2 +1,2 @@
 # InfopillarSolution-IPSVIP-TASK4-Hotel-Management-System
-Hotel managemnt system using java and mysql
+Hotel managemnt system using Java and XAMPP MySQL server
